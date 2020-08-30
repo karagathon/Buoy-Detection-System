@@ -3,7 +3,7 @@
 
 edit (August 30, 2020)
 Code files are in the following format:
-.ino for arduino code
-.py for raspberry pi (python based)
+/n .ino for arduino code
+/n .py for raspberry pi (python based)
 
 Will upload codes as soon as possible
